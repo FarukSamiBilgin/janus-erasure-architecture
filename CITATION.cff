@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below. The manuscript is unpublished and in revision."
+title: "An erasure-native multi-qubit architecture for twisted Janus WSSe/MoSSe bilayers: dark valley–Kramers qubits on a self-addressed sublattice, a mirror ancilla lattice, and dipolar-blockade gates"
+authors:
+  - family-names: Bilgin
+    given-names: Faruk Sami
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0001-9064-4410"
+type: software
+license: MIT
+repository-code: "https://github.com/FarukSamiBilgin/janus-erasure-architecture"
+date-released: 2026-11-15
